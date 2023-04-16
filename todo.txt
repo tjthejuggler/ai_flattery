@@ -1,0 +1,4 @@
+what to do if they respond with the same letter more than once?
+
+
+if the response is not valid, we can try using a dummy to fix it if possible
